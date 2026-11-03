@@ -1,3 +1,3 @@
-# Wael App – Android APK
+# EL METR ACADEMY – Android
 
-[Download latest APK](https://github.com/omarmaarouf18/wael-app-apk/releases/latest/download/wael-app.apk)
+[Download APK](https://github.com/omarmaarouf18/elmetr-academy/releases/latest/download/ElMetrAcademy.apk)
